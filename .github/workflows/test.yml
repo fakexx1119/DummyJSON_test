@@ -34,6 +34,10 @@ jobs:
         allure --version
     
     - name: Run tests
+      env:
+        DUMMYJSON_BASE_URL: ${{ secrets.DUMMYJSON_BASE_URL }}
+        DUMMYJSON_USERNAME: ${{ secrets.DUMMYJSON_USERNAME }}
+        DUMMYJSON_PASSWORD: ${{ secrets.DUMMYJSON_PASSWORD }}
       run: |
         pytest tests/ --alluredir=./allure-results -v
       # ❌ 已删除 continue-on-error: true，测试失败时会阻断流水线

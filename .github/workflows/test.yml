@@ -1,12 +1,10 @@
-name: API Test Pipeline
+name: API Test Pipeline (Stable)
 
 on:
   push:
     branches: [ main, master, develop ]
   pull_request:
     branches: [ main, master ]
-  schedule:
-    - cron: '0 2 * * *'  # 每天凌晨2点定时运行
 
 jobs:
   test:
@@ -26,28 +24,16 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
     
-    - name: Run tests with Allure
+    - name: Run tests
       run: |
-        pytest tests/ --alluredir=./allure-results -v
+        pytest tests/ -v
       continue-on-error: true
     
-    - name: Generate Allure HTML report
-      uses: simple-elf/allure-report-action@master
-      with:
-        allure_results: ./allure-results
-        allure_history: ./allure-history
-      continue-on-error: true
-    
-    - name: Upload Allure results as artifact
+    - name: Upload test results
       uses: actions/upload-artifact@v4
       with:
-        name: allure-results
-        path: ./allure-results
-        retention-days: 30
-    
-    - name: Upload Allure HTML report as artifact
-      uses: actions/upload-artifact@v4
-      with:
-        name: allure-report
-        path: ./allure-history
-        retention-days: 30
+        name: test-results
+        path: |
+          ./allure-results
+          ./.pytest_cache
+        retention-days: 7

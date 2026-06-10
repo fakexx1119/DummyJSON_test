@@ -29,8 +29,9 @@ jobs:
     - name: Install Allure
       run: |
         wget https://github.com/allure-framework/allure2/releases/download/2.24.1/allure-2.24.1.tgz
-        tar -zxvf allure-2.24.1.tgz -C /opt/
-        ln -s /opt/allure-2.24.1/bin/allure /usr/bin/allure
+        mkdir -p $HOME/allure
+        tar -zxvf allure-2.24.1.tgz -C $HOME/allure
+        echo "$HOME/allure/allure-2.24.1/bin" >> $GITHUB_PATH
         allure --version
     
     - name: Run tests

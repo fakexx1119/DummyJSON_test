@@ -1,0 +1,20 @@
+{
+  "cuisine": "Italian",
+  "difficulty": "Easy",
+  "ingredients": [
+    "披萨饼底",
+    "番茄酱"
+  ],
+  "instructions": [
+    "烘烤后即可食用"
+  ],
+  "mealType": [
+    "Dinner"
+  ],
+  "name": "美味披萨",
+  "servings": 2,
+  "tags": [
+    "披萨",
+    "演示"
+  ]
+}

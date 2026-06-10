@@ -1,0 +1,32 @@
+{
+  "limit": 5,
+  "recipes": [
+    {
+      "id": 13,
+      "image": "https://cdn.dummyjson.com/recipe-images/13.webp",
+      "name": "Aloo Keema"
+    },
+    {
+      "id": 8,
+      "image": "https://cdn.dummyjson.com/recipe-images/8.webp",
+      "name": "Beef and Broccoli Stir-Fry"
+    },
+    {
+      "id": 25,
+      "image": "https://cdn.dummyjson.com/recipe-images/25.webp",
+      "name": "Blueberry Banana Smoothie"
+    },
+    {
+      "id": 30,
+      "image": "https://cdn.dummyjson.com/recipe-images/30.webp",
+      "name": "Brazilian Caipirinha"
+    },
+    {
+      "id": 35,
+      "image": "https://cdn.dummyjson.com/recipe-images/35.webp",
+      "name": "Brazilian Chocolate Brigadeiros"
+    }
+  ],
+  "skip": 0,
+  "total": 50
+}

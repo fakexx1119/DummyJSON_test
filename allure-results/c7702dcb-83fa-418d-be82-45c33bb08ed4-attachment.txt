@@ -1,0 +1,1 @@
+https://dummyjson.com/products?limit=5&skip=0&select=id%2Ctitle%2Cprice&delay=10&sortBy=title&order=asc

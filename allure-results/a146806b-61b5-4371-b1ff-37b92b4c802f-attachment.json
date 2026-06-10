@@ -1,0 +1,62 @@
+[
+  {
+    "completed": false,
+    "id": 41,
+    "todo": "Go for a run",
+    "userId": 51
+  },
+  {
+    "completed": false,
+    "id": 221,
+    "todo": "Take a hot air balloon ride",
+    "userId": 160
+  },
+  {
+    "completed": false,
+    "id": 76,
+    "todo": "Make homemade ice cream",
+    "userId": 13
+  },
+  {
+    "completed": true,
+    "id": 29,
+    "todo": "Have a photo session with some friends",
+    "userId": 91
+  },
+  {
+    "completed": true,
+    "id": 209,
+    "todo": "Host a DIY craft night",
+    "userId": 117
+  },
+  {
+    "completed": false,
+    "id": 81,
+    "todo": "Organize dresser",
+    "userId": 72
+  },
+  {
+    "completed": true,
+    "id": 175,
+    "todo": "Explore local art gallery",
+    "userId": 123
+  },
+  {
+    "completed": false,
+    "id": 66,
+    "todo": "Practice coding in favorite language",
+    "userId": 146
+  },
+  {
+    "completed": true,
+    "id": 95,
+    "todo": "Learn the NATO phonetic alphabet",
+    "userId": 138
+  },
+  {
+    "completed": false,
+    "id": 220,
+    "todo": "Explore a nearby ghost town",
+    "userId": 94
+  }
+]

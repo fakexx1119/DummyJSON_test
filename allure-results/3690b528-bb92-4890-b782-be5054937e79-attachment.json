@@ -1,0 +1,57 @@
+{
+  "carts": [
+    {
+      "discountedTotal": 46641.06,
+      "id": 6,
+      "products": [
+        {
+          "discountPercentage": 15.94,
+          "discountedTotal": 46232.96,
+          "id": 192,
+          "price": 10999.99,
+          "quantity": 5,
+          "thumbnail": "https://cdn.dummyjson.com/product-images/womens-watches/rolex-datejust-women/thumbnail.webp",
+          "title": "Rolex Datejust Women",
+          "total": 54999.95
+        },
+        {
+          "discountPercentage": 11.51,
+          "discountedTotal": 309.71,
+          "id": 130,
+          "price": 349.99,
+          "quantity": 1,
+          "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/realme-xt/thumbnail.webp",
+          "title": "Realme XT",
+          "total": 349.99
+        },
+        {
+          "discountPercentage": 4.94,
+          "discountedTotal": 95.02,
+          "id": 155,
+          "price": 24.99,
+          "quantity": 4,
+          "thumbnail": "https://cdn.dummyjson.com/product-images/sunglasses/classic-sun-glasses/thumbnail.webp",
+          "title": "Classic Sun Glasses",
+          "total": 99.96
+        },
+        {
+          "discountPercentage": 14.92,
+          "discountedTotal": 3.37,
+          "id": 42,
+          "price": 0.99,
+          "quantity": 4,
+          "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/water/thumbnail.webp",
+          "title": "Water",
+          "total": 3.96
+        }
+      ],
+      "total": 55453.86,
+      "totalProducts": 4,
+      "totalQuantity": 14,
+      "userId": 6
+    }
+  ],
+  "limit": 1,
+  "skip": 0,
+  "total": 1
+}

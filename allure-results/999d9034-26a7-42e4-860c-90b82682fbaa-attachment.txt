@@ -1,0 +1,1 @@
+curl -X GET "https://dummyjson.com/products/category/smartphones" -H "X-Request-Id: a3a0ef8af42c463f8c4602ad0aedd391"

@@ -1,0 +1,62 @@
+{
+  "availabilityStatus": "In Stock",
+  "brand": "Essence",
+  "category": "beauty",
+  "deletedOn": "2026-03-09T08:28:36.304Z",
+  "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects. Achieve dramatic lashes with this long-lasting and cruelty-free formula.",
+  "dimensions": {
+    "depth": 22.99,
+    "height": 13.08,
+    "width": 15.14
+  },
+  "discountPercentage": 10.48,
+  "id": 1,
+  "images": [
+    "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/1.webp"
+  ],
+  "isDeleted": true,
+  "meta": {
+    "barcode": "5784719087687",
+    "createdAt": "2025-04-30T09:41:02.053Z",
+    "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+    "updatedAt": "2025-04-30T09:41:02.053Z"
+  },
+  "minimumOrderQuantity": 48,
+  "price": 9.99,
+  "rating": 2.56,
+  "returnPolicy": "No return policy",
+  "reviews": [
+    {
+      "comment": "Would not recommend!",
+      "date": "2025-04-30T09:41:02.053Z",
+      "rating": 3,
+      "reviewerEmail": "eleanor.collins@x.dummyjson.com",
+      "reviewerName": "Eleanor Collins"
+    },
+    {
+      "comment": "Very satisfied!",
+      "date": "2025-04-30T09:41:02.053Z",
+      "rating": 4,
+      "reviewerEmail": "lucas.gordon@x.dummyjson.com",
+      "reviewerName": "Lucas Gordon"
+    },
+    {
+      "comment": "Highly impressed!",
+      "date": "2025-04-30T09:41:02.053Z",
+      "rating": 5,
+      "reviewerEmail": "eleanor.collins@x.dummyjson.com",
+      "reviewerName": "Eleanor Collins"
+    }
+  ],
+  "shippingInformation": "Ships in 3-5 business days",
+  "sku": "BEA-ESS-ESS-001",
+  "stock": 99,
+  "tags": [
+    "beauty",
+    "mascara"
+  ],
+  "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/thumbnail.webp",
+  "title": "Essence Mascara Lash Princess",
+  "warrantyInformation": "1 week warranty",
+  "weight": 4
+}

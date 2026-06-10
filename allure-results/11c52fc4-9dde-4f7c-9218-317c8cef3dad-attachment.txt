@@ -1,0 +1,1 @@
+curl -X GET "https://dummyjson.com/recipes?limit=5&skip=0&select=id%2Cname%2Cimage&sortBy=name&order=asc" -H "X-Request-Id: f3d45fafddf0468eb1e1517d4afb14e4"

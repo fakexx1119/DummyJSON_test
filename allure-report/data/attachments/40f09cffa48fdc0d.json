@@ -1,0 +1,70 @@
+{
+  "address": {
+    "address": "",
+    "city": "",
+    "coordinates": {
+      "lat": null,
+      "lng": null
+    },
+    "country": "",
+    "postalCode": "",
+    "state": "",
+    "stateCode": ""
+  },
+  "age": 250,
+  "bank": {
+    "cardExpire": "",
+    "cardNumber": "",
+    "cardType": "",
+    "currency": "",
+    "iban": ""
+  },
+  "birthDate": "",
+  "bloodGroup": "",
+  "company": {
+    "address": {
+      "address": "",
+      "city": "",
+      "coordinates": {
+        "lat": null,
+        "lng": null
+      },
+      "country": "",
+      "postalCode": "",
+      "state": "",
+      "stateCode": ""
+    },
+    "department": "",
+    "name": "",
+    "title": ""
+  },
+  "crypto": {
+    "coin": "",
+    "network": "",
+    "wallet": ""
+  },
+  "ein": "",
+  "email": "demo@x.dummyjson.com",
+  "eyeColor": "",
+  "firstName": "Muhammad",
+  "gender": "",
+  "hair": {
+    "color": "",
+    "type": ""
+  },
+  "height": null,
+  "id": 209,
+  "image": "",
+  "ip": "",
+  "lastName": "Ovi",
+  "macAddress": "",
+  "maidenName": "",
+  "password": "",
+  "phone": "",
+  "role": "user",
+  "ssn": "",
+  "university": "",
+  "userAgent": "",
+  "username": "",
+  "weight": null
+}

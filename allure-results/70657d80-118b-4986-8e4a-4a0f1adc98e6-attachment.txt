@@ -1,0 +1,1 @@
+curl -X POST "https://dummyjson.com/products/add" -H "Content-Type: application/json" -H "X-Request-Id: 580688fd1154497eb693eb4a7e471b6b" -H "Content-Type: application/json" -d '{"title": "BMW Pencil", "description": "接口自动化演示数据", "category": "smartphones", "price": 9.99, "stock": 10, "brand": "BMW", "tags": ["demo", "automation"], "sku": "DEMO-SKU-001", "weight": 2.0}'

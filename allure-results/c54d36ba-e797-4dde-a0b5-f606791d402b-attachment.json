@@ -1,0 +1,38 @@
+{
+  "limit": 2,
+  "posts": [
+    {
+      "body": "I'm going to hire professional help tomorrow. I can't handle this anymore. She fell over the coffee table and now there is blood in her catheter. This is much more than I ever signed up to do.",
+      "id": 61,
+      "reactions": {
+        "dislikes": 40,
+        "likes": 1127
+      },
+      "tags": [
+        "fiction",
+        "classic",
+        "american"
+      ],
+      "title": "I'm going to hire professional help tomorrow.",
+      "userId": 5,
+      "views": 4419
+    },
+    {
+      "body": "young people around him and it suddenly occurred to him that he was the only one in the whole audience who had the privilege of freedom, ",
+      "id": 123,
+      "reactions": {
+        "dislikes": 12,
+        "likes": 1350
+      },
+      "tags": [
+        "mystery",
+        "classic"
+      ],
+      "title": "The old scholar was watching the noisy",
+      "userId": 5,
+      "views": 1583
+    }
+  ],
+  "skip": 0,
+  "total": 2
+}

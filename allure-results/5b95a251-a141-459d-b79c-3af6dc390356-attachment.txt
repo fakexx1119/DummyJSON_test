@@ -1,0 +1,1 @@
+curl -X PATCH "https://dummyjson.com/posts/1" -H "Content-Type: application/json" -H "X-Request-Id: 9f82ab1ab22f4d81b20268999457322a" -H "Content-Type: application/json" -d '{"title": "I think I should shift to the moon"}'

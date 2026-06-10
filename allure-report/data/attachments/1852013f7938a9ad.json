@@ -1,0 +1,52 @@
+{
+  "deletedOn": "2026-03-09T08:30:16.652Z",
+  "discountedTotal": 89686.65,
+  "id": 1,
+  "isDeleted": true,
+  "products": [
+    {
+      "discountPercentage": 13.39,
+      "discountedTotal": 85743.87,
+      "id": 168,
+      "price": 32999.99,
+      "quantity": 3,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/vehicle/Charger%20SXT%20RWD/thumbnail.png",
+      "title": "Charger SXT RWD",
+      "total": 98999.97
+    },
+    {
+      "discountPercentage": 18.52,
+      "discountedTotal": 3259.18,
+      "id": 78,
+      "price": 1999.99,
+      "quantity": 2,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/laptops/Apple%20MacBook%20Pro%2014%20Inch%20Space%20Grey/thumbnail.png",
+      "title": "Apple MacBook Pro 14 Inch Space Grey",
+      "total": 3999.98
+    },
+    {
+      "discountPercentage": 6.28,
+      "discountedTotal": 117.1,
+      "id": 183,
+      "price": 24.99,
+      "quantity": 5,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/womens-jewellery/Green%20Oval%20Earring/thumbnail.png",
+      "title": "Green Oval Earring",
+      "total": 124.94999999999999
+    },
+    {
+      "discountPercentage": 12.84,
+      "discountedTotal": 566.5,
+      "id": 100,
+      "price": 129.99,
+      "quantity": 5,
+      "thumbnail": "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20Airpods/thumbnail.png",
+      "title": "Apple Airpods",
+      "total": 649.95
+    }
+  ],
+  "total": 103774.85,
+  "totalProducts": 4,
+  "totalQuantity": 15,
+  "userId": 33
+}

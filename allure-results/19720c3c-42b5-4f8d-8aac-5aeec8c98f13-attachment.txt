@@ -1,0 +1,1 @@
+curl -X GET "https://dummyjson.com/carts?limit=5&skip=0" -H "X-Request-Id: 1091e9384b874bf09d381a4c14aa6cf4"

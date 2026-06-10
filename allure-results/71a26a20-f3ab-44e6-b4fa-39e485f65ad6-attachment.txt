@@ -1,0 +1,1 @@
+curl -X DELETE "https://dummyjson.com/comments/1" -H "X-Request-Id: 04457d5f1ce1414a9d9ef1133f327446"

@@ -1,0 +1,62 @@
+[
+  {
+    "completed": false,
+    "id": 187,
+    "todo": "Visit an aquarium",
+    "userId": 19
+  },
+  {
+    "completed": true,
+    "id": 209,
+    "todo": "Host a DIY craft night",
+    "userId": 117
+  },
+  {
+    "completed": false,
+    "id": 66,
+    "todo": "Practice coding in favorite language",
+    "userId": 146
+  },
+  {
+    "completed": false,
+    "id": 241,
+    "todo": "Attend a local beer or wine tasting event",
+    "userId": 43
+  },
+  {
+    "completed": false,
+    "id": 149,
+    "todo": "Use DummyJSON",
+    "userId": 25
+  },
+  {
+    "completed": false,
+    "id": 51,
+    "todo": "Mow neighbor's lawn",
+    "userId": 47
+  },
+  {
+    "completed": true,
+    "id": 56,
+    "todo": "Start a daily journal",
+    "userId": 136
+  },
+  {
+    "completed": false,
+    "id": 98,
+    "todo": "Catch up on world news",
+    "userId": 196
+  },
+  {
+    "completed": false,
+    "id": 57,
+    "todo": "Clean out closet and donate the clothes you've outgrown",
+    "userId": 23
+  },
+  {
+    "completed": false,
+    "id": 248,
+    "todo": "Explore a nearby botanical sanctuary",
+    "userId": 179
+  }
+]

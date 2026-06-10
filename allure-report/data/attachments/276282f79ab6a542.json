@@ -1,0 +1,62 @@
+{
+  "comments": [
+    {
+      "body": "This is some awesome thinking!",
+      "id": 1,
+      "likes": 3,
+      "postId": 242,
+      "user": {
+        "fullName": "Emma Wilson",
+        "id": 105,
+        "username": "emmac"
+      }
+    },
+    {
+      "body": "What terrific math skills you're showing!",
+      "id": 2,
+      "likes": 4,
+      "postId": 46,
+      "user": {
+        "fullName": "Cameron Perez",
+        "id": 183,
+        "username": "cameronp"
+      }
+    },
+    {
+      "body": "You are an amazing writer!",
+      "id": 3,
+      "likes": 2,
+      "postId": 235,
+      "user": {
+        "fullName": "Emily Johnson",
+        "id": 1,
+        "username": "emilys"
+      }
+    },
+    {
+      "body": "Wow! You have improved so much!",
+      "id": 4,
+      "likes": 1,
+      "postId": 31,
+      "user": {
+        "fullName": "Brayden Fleming",
+        "id": 89,
+        "username": "braydenf"
+      }
+    },
+    {
+      "body": "Nice idea!",
+      "id": 5,
+      "likes": 1,
+      "postId": 212,
+      "user": {
+        "fullName": "Wyatt Perry",
+        "id": 149,
+        "username": "wyattp"
+      }
+    }
+  ],
+  "limit": 5,
+  "skip": 0,
+  "total": 340
+}

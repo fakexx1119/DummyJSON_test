@@ -1,0 +1,60 @@
+{
+  "discountedTotal": 11520,
+  "id": 1,
+  "products": [
+    {
+      "discountPercentage": 12.13,
+      "discountedPrice": 105,
+      "id": 162,
+      "price": 29.99,
+      "quantity": 4,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/tops/blue-frock/thumbnail.webp",
+      "title": "Blue Frock",
+      "total": 119.96
+    },
+    {
+      "discountPercentage": 12.1,
+      "discountedPrice": 10548,
+      "id": 113,
+      "price": 3999.99,
+      "quantity": 3,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/motorcycle/generic-motorcycle/thumbnail.webp",
+      "title": "Generic Motorcycle",
+      "total": 11999.97
+    },
+    {
+      "discountPercentage": 6.69,
+      "discountedPrice": 840,
+      "id": 122,
+      "price": 299.99,
+      "quantity": 3,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/iphone-6/thumbnail.webp",
+      "title": "iPhone 6",
+      "total": 899.97
+    },
+    {
+      "discountPercentage": 1.71,
+      "discountedPrice": 18,
+      "id": 138,
+      "price": 8.99,
+      "quantity": 2,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-ball/thumbnail.webp",
+      "title": "Baseball Ball",
+      "total": 17.98
+    },
+    {
+      "discountPercentage": 10.48,
+      "discountedPrice": 9,
+      "id": 1,
+      "price": 9.99,
+      "quantity": 1,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/thumbnail.webp",
+      "title": "Essence Mascara Lash Princess",
+      "total": 9.99
+    }
+  ],
+  "total": 13047.869999999997,
+  "totalProducts": 5,
+  "totalQuantity": 13,
+  "userId": 1
+}

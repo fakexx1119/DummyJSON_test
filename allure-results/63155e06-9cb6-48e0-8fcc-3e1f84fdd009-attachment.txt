@@ -1,0 +1,1 @@
+curl -X GET "https://dummyjson.com/recipes/search?q=Margherita" -H "X-Request-Id: f450ed0d934f43e9a61b83080bea9dfb"

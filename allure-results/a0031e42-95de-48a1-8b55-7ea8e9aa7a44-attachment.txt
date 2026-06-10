@@ -1,0 +1,1 @@
+curl -X POST "https://dummyjson.com/posts/add" -H "Content-Type: application/json" -H "X-Request-Id: c7aba7683cdd431e9bdf662f6a6117d2" -H "Content-Type: application/json" -d '{"title": "我喜欢一个人。", "userId": 5}'

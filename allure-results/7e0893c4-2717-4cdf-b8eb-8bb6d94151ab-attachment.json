@@ -1,0 +1,123 @@
+{
+  "limit": 3,
+  "recipes": [
+    {
+      "caloriesPerServing": 150,
+      "cookTimeMinutes": 10,
+      "cuisine": "American",
+      "difficulty": "Easy",
+      "id": 3,
+      "image": "https://cdn.dummyjson.com/recipe-images/3.webp",
+      "ingredients": [
+        "All-purpose flour",
+        "Butter, softened",
+        "Brown sugar",
+        "White sugar",
+        "Eggs",
+        "Vanilla extract",
+        "Baking soda",
+        "Salt",
+        "Chocolate chips"
+      ],
+      "instructions": [
+        "Preheat the oven to 350°F (175°C).",
+        "In a bowl, cream together softened butter, brown sugar, and white sugar.",
+        "Beat in eggs one at a time, then stir in vanilla extract.",
+        "Combine flour, baking soda, and salt. Gradually add to the wet ingredients.",
+        "Fold in chocolate chips.",
+        "Drop rounded tablespoons of dough onto ungreased baking sheets.",
+        "Bake for 10-12 minutes or until edges are golden brown.",
+        "Allow cookies to cool on the baking sheet for a few minutes before transferring to a wire rack."
+      ],
+      "mealType": [
+        "Snack",
+        "Dessert"
+      ],
+      "name": "Chocolate Chip Cookies",
+      "prepTimeMinutes": 15,
+      "rating": 4.9,
+      "reviewCount": 13,
+      "servings": 24,
+      "tags": [
+        "Cookies",
+        "Dessert",
+        "Baking"
+      ],
+      "userId": 34
+    },
+    {
+      "caloriesPerServing": 180,
+      "cookTimeMinutes": 15,
+      "cuisine": "Mexican",
+      "difficulty": "Easy",
+      "id": 26,
+      "image": "https://cdn.dummyjson.com/recipe-images/26.webp",
+      "ingredients": [
+        "Corn on the cob",
+        "Mayonnaise",
+        "Cotija cheese, crumbled",
+        "Chili powder",
+        "Lime wedges"
+      ],
+      "instructions": [
+        "Grill or roast corn on the cob until kernels are charred.",
+        "Brush each cob with mayonnaise, then sprinkle with crumbled Cotija cheese and chili powder.",
+        "Serve with lime wedges for squeezing over the top.",
+        "Enjoy this delicious and flavorful Mexican Street Corn!"
+      ],
+      "mealType": [
+        "Snack",
+        "Side Dish"
+      ],
+      "name": "Mexican Street Corn (Elote)",
+      "prepTimeMinutes": 15,
+      "rating": 4.6,
+      "reviewCount": 2,
+      "servings": 4,
+      "tags": [
+        "Elote",
+        "Mexican",
+        "Street food"
+      ],
+      "userId": 93
+    },
+    {
+      "caloriesPerServing": 90,
+      "cookTimeMinutes": 0,
+      "cuisine": "Mexican",
+      "difficulty": "Easy",
+      "id": 43,
+      "image": "https://cdn.dummyjson.com/recipe-images/43.webp",
+      "ingredients": [
+        "Mango, diced",
+        "Avocado, diced",
+        "Red onion, finely chopped",
+        "Cilantro, chopped",
+        "Lime juice",
+        "Salt and pepper to taste",
+        "Tortilla chips for serving"
+      ],
+      "instructions": [
+        "In a bowl, combine diced mango, diced avocado, finely chopped red onion, and chopped cilantro.",
+        "Drizzle with fresh lime juice and season with salt and pepper. Toss gently to combine.",
+        "Serve this refreshing Mango Avocado Salsa with tortilla chips for a quick and tasty snack."
+      ],
+      "mealType": [
+        "Snack",
+        "Appetizer"
+      ],
+      "name": "Mango Avocado Salsa",
+      "prepTimeMinutes": 10,
+      "rating": 4.1,
+      "reviewCount": 78,
+      "servings": 4,
+      "tags": [
+        "Mango salsa",
+        "Mexican"
+      ],
+      "userId": 30
+    }
+  ],
+  "skip": 0,
+  "total": 3
+}

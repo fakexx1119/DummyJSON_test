@@ -1,0 +1,227 @@
+{
+  "carts": [
+    {
+      "discountedTotal": 11510.81,
+      "id": 1,
+      "products": [
+        {
+          "discountPercentage": 12.13,
+          "discountedTotal": 105.41,
+          "id": 162,
+          "price": 29.99,
+          "quantity": 4,
+          "thumbnail": "https://cdn.dummyjson.com/product-images/tops/blue-frock/thumbnail.webp",
+          "title": "Blue Frock",
+          "total": 119.96
+        },
+        {
+          "discountPercentage": 12.1,
+          "discountedTotal": 10547.97,
+          "id": 113,
+          "price": 3999.99,
+          "quantity": 3,
+          "thumbnail": "https://cdn.dummyjson.com/product-images/motorcycle/generic-motorcycle/thumbnail.webp",
+          "title": "Generic Motorcycle",
+          "total": 11999.97
+        },
+        {
+          "discountPercentage": 6.69,
+          "discountedTotal": 839.76,
+          "id": 122,
+          "price": 299.99,
+          "quantity": 3,
+          "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/iphone-6/thumbnail.webp",
+          "title": "iPhone 6",
+          "total": 899.97
+        },
+        {
+          "discountPercentage": 1.71,
+          "discountedTotal": 17.67,
+          "id": 138,
+          "price": 8.99,
+          "quantity": 2,
+          "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-ball/thumbnail.webp",
+          "title": "Baseball Ball",
+          "total": 17.98
+        }
+      ],
+      "total": 13037.88,
+      "totalProducts": 4,
+      "totalQuantity": 12,
+      "userId": 1
+    },
+    {
+      "discountedTotal": 125.7,
+      "id": 2,
+      "products": [
+        {
+          "discountPercentage": 6.83,
+          "discountedTotal": 93.12,
+          "id": 86,
+          "price": 19.99,
+          "quantity": 5,
+          "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/thumbnail.webp",
+          "title": "Man Short Sleeve Shirt",
+          "total": 99.94999999999999
+        },
+        {
+          "discountPercentage": 18.52,
+          "discountedTotal": 32.58,
+          "id": 104,
+          "price": 19.99,
+          "quantity": 2,
+          "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-iphone-charger/thumbnail.webp",
+          "title": "Apple iPhone Charger",
+          "total": 39.98
+        }
+      ],
+      "total": 139.93,
+      "totalProducts": 2,
+      "totalQuantity": 7,
+      "userId": 2
+    },
+    {
+      "discountedTotal": 1625.77,
+      "id": 3,
+      "products": [
+        {
+          "discountPercentage": 4.23,
+          "discountedTotal": 14.36,
+          "id": 24,
+          "price": 14.99,
+          "quantity": 1,
+          "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/fish-steak/thumbnail.webp",
+          "title": "Fish Steak",
+          "total": 14.99
+        },
+        {
+          "discountPercentage": 9.37,
+          "discountedTotal": 996.92,
+          "id": 123,
+          "price": 1099.99,
+          "quantity": 1,
+          "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/iphone-13-pro/thumbnail.webp",
+          "title": "iPhone 13 Pro",
+          "total": 1099.99
+        },
+        {
+          "discountPercentage": 6.95,
+          "discountedTotal": 279.14,
+          "id": 129,
+          "price": 299.99,
+          "quantity": 1,
+          "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/realme-x/thumbnail.webp",
+          "title": "Realme X",
+          "total": 299.99
+        },
+        {
+          "discountPercentage": 6.83,
+          "discountedTotal": 93.12,
+          "id": 86,
+          "price": 19.99,
+          "quantity": 5,
+          "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shirts/man-short-sleeve-shirt/thumbnail.webp",
+          "title": "Man Short Sleeve Shirt",
+          "total": 99.94999999999999
+        },
+        {
+          "discountPercentage": 14.72,
+          "discountedTotal": 153.49,
+          "id": 8,
+          "price": 89.99,
+          "quantity": 2,
+          "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/thumbnail.webp",
+          "title": "Dior J'adore",
+          "total": 179.98
+        },
+        {
+          "discountPercentage": 11.22,
+          "discountedTotal": 88.74,
+          "id": 157,
+          "price": 19.99,
+          "quantity": 5,
+          "thumbnail": "https://cdn.dummyjson.com/product-images/sunglasses/party-glasses/thumbnail.webp",
+          "title": "Party Glasses",
+          "total": 99.94999999999999
+        }
+      ],
+      "total": 1794.85,
+      "totalProducts": 6,
+      "totalQuantity": 15,
+      "userId": 3
+    },
+    {
+      "discountedTotal": 636.81,
+      "id": 4,
+      "products": [
+        {
+          "discountPercentage": 0.04,
+          "discountedTotal": 329.84,
+          "id": 92,
+          "price": 109.99,
+          "quantity": 3,
+          "thumbnail": "https://cdn.dummyjson.com/product-images/mens-shoes/sports-sneakers-off-white-red/thumbnail.webp",
+          "title": "Sports Sneakers Off White Red",
+          "total": 329.96999999999997
+        },
+        {
+          "discountPercentage": 14.72,
+          "discountedTotal": 306.97,
+          "id": 8,
+          "price": 89.99,
+          "quantity": 4,
+          "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/thumbnail.webp",
+          "title": "Dior J'adore",
+          "total": 359.96
+        }
+      ],
+      "total": 689.93,
+      "totalProducts": 2,
+      "totalQuantity": 7,
+      "userId": 4
+    },
+    {
+      "discountedTotal": 1205.8,
+      "id": 5,
+      "products": [
+        {
+          "discountPercentage": 18.2,
+          "discountedTotal": 1145.17,
+          "id": 161,
+          "price": 349.99,
+          "quantity": 4,
+          "thumbnail": "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-white/thumbnail.webp",
+          "title": "Samsung Galaxy Tab White",
+          "total": 1399.96
+        },
+        {
+          "discountPercentage": 17.48,
+          "discountedTotal": 6.57,
+          "id": 39,
+          "price": 1.99,
+          "quantity": 4,
+          "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/soft-drinks/thumbnail.webp",
+          "title": "Soft Drinks",
+          "total": 7.96
+        },
+        {
+          "discountPercentage": 9.84,
+          "discountedTotal": 54.06,
+          "id": 3,
+          "price": 14.99,
+          "quantity": 4,
+          "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/powder-canister/thumbnail.webp",
+          "title": "Powder Canister",
+          "total": 59.96
+        }
+      ],
+      "total": 1467.88,
+      "totalProducts": 3,
+      "totalQuantity": 12,
+      "userId": 5
+    }
+  ],
+  "limit": 5,
+  "skip": 0,
+  "total": 208
+}

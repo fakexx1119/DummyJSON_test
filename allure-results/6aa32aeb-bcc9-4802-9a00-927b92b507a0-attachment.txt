@@ -1,0 +1,1 @@
+curl -X POST "https://dummyjson.com/todos/add" -H "Content-Type: application/json" -H "X-Request-Id: 6e8232202eda4738b1164e82dcf5ad00" -H "Content-Type: application/json" -d '{"todo": "在项目中使用 DummyJSON", "completed": false, "userId": 5}'

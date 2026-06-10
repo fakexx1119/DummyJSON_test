@@ -1,0 +1,62 @@
+[
+  {
+    "completed": false,
+    "id": 40,
+    "todo": "Have a bonfire with close friends",
+    "userId": 185
+  },
+  {
+    "completed": true,
+    "id": 167,
+    "todo": "Network at event",
+    "userId": 93
+  },
+  {
+    "completed": true,
+    "id": 22,
+    "todo": "Take a hike at a local park",
+    "userId": 37
+  },
+  {
+    "completed": false,
+    "id": 162,
+    "todo": "Attend live performance",
+    "userId": 83
+  },
+  {
+    "completed": false,
+    "id": 98,
+    "todo": "Catch up on world news",
+    "userId": 196
+  },
+  {
+    "completed": false,
+    "id": 219,
+    "todo": "Attend a wine and paint night",
+    "userId": 112
+  },
+  {
+    "completed": false,
+    "id": 136,
+    "todo": "Conquer one of fears",
+    "userId": 40
+  },
+  {
+    "completed": true,
+    "id": 29,
+    "todo": "Have a photo session with some friends",
+    "userId": 91
+  },
+  {
+    "completed": true,
+    "id": 89,
+    "todo": "Go to the library and find an interesting book",
+    "userId": 107
+  },
+  {
+    "completed": true,
+    "id": 56,
+    "todo": "Start a daily journal",
+    "userId": 136
+  }
+]

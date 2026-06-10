@@ -1,0 +1,1 @@
+curl -X GET "https://dummyjson.com/users/filter?key=hair.color&value=Brown&limit=3&skip=0" -H "X-Request-Id: 6c7c6215ade54a2e8254b2bec570f46e"

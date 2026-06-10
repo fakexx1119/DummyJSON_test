@@ -1,0 +1,1 @@
+curl -X PATCH "https://dummyjson.com/products/1" -H "Content-Type: application/json" -H "X-Request-Id: c8122a101dcf415aaac4563352276d46" -H "Content-Type: application/json" -d '{"title": "iPhone Galaxy +1"}'

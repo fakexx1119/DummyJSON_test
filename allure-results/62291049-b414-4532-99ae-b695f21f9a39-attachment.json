@@ -1,0 +1,13 @@
+{
+  "body": "This is some awesome thinking!",
+  "deletedOn": "2026-03-09T08:59:23.917Z",
+  "id": 1,
+  "isDeleted": true,
+  "likes": 3,
+  "postId": 242,
+  "user": {
+    "fullName": "Emma Wilson",
+    "id": 105,
+    "username": "emmac"
+  }
+}

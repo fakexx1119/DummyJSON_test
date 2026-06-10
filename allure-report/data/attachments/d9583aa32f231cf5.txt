@@ -1,0 +1,1 @@
+curl -X DELETE "https://dummyjson.com/recipes/1" -H "X-Request-Id: ed3c6378cb04453397240565b386770f"

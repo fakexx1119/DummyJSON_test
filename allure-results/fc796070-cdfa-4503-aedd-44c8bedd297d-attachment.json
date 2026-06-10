@@ -1,0 +1,30 @@
+{
+  "discountedTotal": 53213,
+  "id": 209,
+  "products": [
+    {
+      "discountPercentage": 5.05,
+      "discountedPrice": 53172,
+      "id": 98,
+      "price": 13999.99,
+      "quantity": 4,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mens-watches/rolex-submariner-watch/thumbnail.webp",
+      "title": "Rolex Submariner Watch",
+      "total": 55999.96
+    },
+    {
+      "discountPercentage": 9.64,
+      "discountedPrice": 41,
+      "id": 144,
+      "price": 44.99,
+      "quantity": 1,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/cricket-helmet/thumbnail.webp",
+      "title": "Cricket Helmet",
+      "total": 44.99
+    }
+  ],
+  "total": 56044.95,
+  "totalProducts": 2,
+  "totalQuantity": 5,
+  "userId": 1
+}

@@ -1,0 +1,18 @@
+{
+  "comments": [
+    {
+      "body": "You've shown so much growth!",
+      "id": 15,
+      "likes": 2,
+      "postId": 6,
+      "user": {
+        "fullName": "Evelyn Sanchez",
+        "id": 17,
+        "username": "evelyns"
+      }
+    }
+  ],
+  "limit": 1,
+  "skip": 0,
+  "total": 1
+}

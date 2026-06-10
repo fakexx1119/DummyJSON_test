@@ -1,0 +1,1 @@
+curl -X GET "https://dummyjson.com/image/60x30/282828/ffffff?text=WebP&type=webp" -H "X-Request-Id: 4ce106668a9344ac8b8e474f852e4bec"

@@ -1,0 +1,1 @@
+curl -X POST "https://dummyjson.com/comments/add" -H "Content-Type: application/json" -H "X-Request-Id: e9304c9903624e76b4f4443c2d7d0c9f" -H "Content-Type: application/json" -d '{"body": "这个观点我完全赞同！", "postId": 3, "userId": 5}'

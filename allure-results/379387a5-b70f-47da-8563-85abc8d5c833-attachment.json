@@ -1,0 +1,37 @@
+{
+  "limit": 5,
+  "skip": 0,
+  "todos": [
+    {
+      "completed": false,
+      "id": 1,
+      "todo": "Do something nice for someone you care about",
+      "userId": 152
+    },
+    {
+      "completed": true,
+      "id": 2,
+      "todo": "Memorize a poem",
+      "userId": 13
+    },
+    {
+      "completed": true,
+      "id": 3,
+      "todo": "Watch a classic movie",
+      "userId": 68
+    },
+    {
+      "completed": false,
+      "id": 4,
+      "todo": "Watch a documentary",
+      "userId": 84
+    },
+    {
+      "completed": false,
+      "id": 5,
+      "todo": "Invest in cryptocurrency",
+      "userId": 163
+    }
+  ],
+  "total": 254
+}

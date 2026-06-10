@@ -1,0 +1,62 @@
+[
+  {
+    "completed": false,
+    "id": 198,
+    "todo": "Host a trivia night",
+    "userId": 118
+  },
+  {
+    "completed": false,
+    "id": 249,
+    "todo": "Attend a local food truck rally",
+    "userId": 74
+  },
+  {
+    "completed": true,
+    "id": 18,
+    "todo": "Draw and color a Mandala",
+    "userId": 6
+  },
+  {
+    "completed": true,
+    "id": 217,
+    "todo": "Try horseback riding",
+    "userId": 113
+  },
+  {
+    "completed": false,
+    "id": 17,
+    "todo": "Clean out car",
+    "userId": 71
+  },
+  {
+    "completed": false,
+    "id": 187,
+    "todo": "Visit an aquarium",
+    "userId": 19
+  },
+  {
+    "completed": true,
+    "id": 2,
+    "todo": "Memorize a poem",
+    "userId": 13
+  },
+  {
+    "completed": true,
+    "id": 247,
+    "todo": "Try a new type of dance class",
+    "userId": 19
+  },
+  {
+    "completed": true,
+    "id": 179,
+    "todo": "Attend a poetry reading",
+    "userId": 166
+  },
+  {
+    "completed": false,
+    "id": 205,
+    "todo": "Take a cooking workshop",
+    "userId": 69
+  }
+]

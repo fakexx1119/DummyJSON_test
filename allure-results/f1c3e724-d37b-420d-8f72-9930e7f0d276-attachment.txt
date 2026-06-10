@@ -1,0 +1,1 @@
+curl -X GET "https://dummyjson.com/http/404/Hello_Peter" -H "X-Request-Id: 9739858a2d51409383add3d5493f17e4"

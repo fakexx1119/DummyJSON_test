@@ -1,0 +1,14 @@
+{
+  "brand": "BMW",
+  "category": "smartphones",
+  "description": "接口自动化演示数据",
+  "price": 9.99,
+  "sku": "DEMO-SKU-001",
+  "stock": 10,
+  "tags": [
+    "demo",
+    "automation"
+  ],
+  "title": "BMW Pencil",
+  "weight": 2.0
+}

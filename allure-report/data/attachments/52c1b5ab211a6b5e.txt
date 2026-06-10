@@ -1,0 +1,1 @@
+https://dummyjson.com/products/1?select=id%2Ctitle%2Ccategory

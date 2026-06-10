@@ -1,0 +1,1 @@
+curl -X POST "https://dummyjson.com/carts/add" -H "Content-Type: application/json" -H "X-Request-Id: 6e3cb84341ce4ffbac63e5d84ed9fbba" -H "Content-Type: application/json" -d '{"userId": 1, "products": [{"id": 144, "quantity": 4}, {"id": 98, "quantity": 1}]}'

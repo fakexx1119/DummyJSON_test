@@ -1,0 +1,47 @@
+{
+  "carts": [
+    {
+      "discountedTotal": 1594.33,
+      "id": 24,
+      "products": [
+        {
+          "discountPercentage": 14.68,
+          "discountedTotal": 127.94,
+          "id": 108,
+          "price": 29.99,
+          "quantity": 5,
+          "thumbnail": "https://cdn.dummyjson.com/products/images/mobile-accessories/iPhone%2012%20Silicone%20Case%20with%20MagSafe%20Plum/thumbnail.png",
+          "title": "iPhone 12 Silicone Case with MagSafe Plum",
+          "total": 149.95
+        },
+        {
+          "discountPercentage": 5.64,
+          "discountedTotal": 943.56,
+          "id": 134,
+          "price": 249.99,
+          "quantity": 4,
+          "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Vivo%20S1/thumbnail.png",
+          "title": "Vivo S1",
+          "total": 999.96
+        },
+        {
+          "discountPercentage": 12.86,
+          "discountedTotal": 522.83,
+          "id": 174,
+          "price": 599.99,
+          "quantity": 1,
+          "thumbnail": "https://cdn.dummyjson.com/products/images/womens-bags/Prada%20Women%20Bag/thumbnail.png",
+          "title": "Prada Women Bag",
+          "total": 599.99
+        }
+      ],
+      "total": 1749.9,
+      "totalProducts": 3,
+      "totalQuantity": 10,
+      "userId": 6
+    }
+  ],
+  "limit": 1,
+  "skip": 0,
+  "total": 1
+}

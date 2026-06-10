@@ -1,0 +1,1 @@
+curl -X GET "https://dummyjson.com/recipes/meal-type/snack" -H "X-Request-Id: e24b0d29b1f0400886c1a8e69f9b0fb4"

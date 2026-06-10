@@ -1,0 +1,52 @@
+{
+  "deletedOn": "2026-06-10T06:59:04.672Z",
+  "discountedTotal": 11510.81,
+  "id": 1,
+  "isDeleted": true,
+  "products": [
+    {
+      "discountPercentage": 12.13,
+      "discountedTotal": 105.41,
+      "id": 162,
+      "price": 29.99,
+      "quantity": 4,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/tops/blue-frock/thumbnail.webp",
+      "title": "Blue Frock",
+      "total": 119.96
+    },
+    {
+      "discountPercentage": 12.1,
+      "discountedTotal": 10547.97,
+      "id": 113,
+      "price": 3999.99,
+      "quantity": 3,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/motorcycle/generic-motorcycle/thumbnail.webp",
+      "title": "Generic Motorcycle",
+      "total": 11999.97
+    },
+    {
+      "discountPercentage": 6.69,
+      "discountedTotal": 839.76,
+      "id": 122,
+      "price": 299.99,
+      "quantity": 3,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/smartphones/iphone-6/thumbnail.webp",
+      "title": "iPhone 6",
+      "total": 899.97
+    },
+    {
+      "discountPercentage": 1.71,
+      "discountedTotal": 17.67,
+      "id": 138,
+      "price": 8.99,
+      "quantity": 2,
+      "thumbnail": "https://cdn.dummyjson.com/product-images/sports-accessories/baseball-ball/thumbnail.webp",
+      "title": "Baseball Ball",
+      "total": 17.98
+    }
+  ],
+  "total": 13037.88,
+  "totalProducts": 4,
+  "totalQuantity": 12,
+  "userId": 1
+}

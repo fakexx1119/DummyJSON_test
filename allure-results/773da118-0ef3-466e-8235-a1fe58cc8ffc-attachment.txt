@@ -1,0 +1,1 @@
+curl -X PATCH "https://dummyjson.com/todos/1" -H "Content-Type: application/json" -H "X-Request-Id: 432a8f9df8ac48f0a573657c998a2cb5" -H "Content-Type: application/json" -d '{"completed": false}'

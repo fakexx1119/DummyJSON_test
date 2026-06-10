@@ -1,0 +1,1 @@
+curl -X PUT "https://dummyjson.com/carts/1" -H "Content-Type: application/json" -H "X-Request-Id: 8fed272633064e9b8cfdc680ccb146ad" -H "Content-Type: application/json" -d '{"merge": true, "products": [{"id": 1, "quantity": 1}]}'

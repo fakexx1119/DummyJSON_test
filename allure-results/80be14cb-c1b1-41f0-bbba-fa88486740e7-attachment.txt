@@ -1,0 +1,1 @@
+curl -X POST "https://dummyjson.com/recipes/add" -H "Content-Type: application/json" -H "X-Request-Id: 88524da6438c463b960ab9eebad4d3cd" -H "Content-Type: application/json" -d '{"name": "美味披萨", "ingredients": ["披萨饼底", "番茄酱"], "instructions": ["烘烤后即可食用"], "servings": 2, "difficulty": "Easy", "cuisine": "Italian", "tags": ["披萨", "演示"], "mealType": ["Dinner"]}'

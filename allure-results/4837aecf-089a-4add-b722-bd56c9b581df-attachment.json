@@ -1,0 +1,47 @@
+{
+  "carts": [
+    {
+      "discountedTotal": 1205.8,
+      "id": 5,
+      "products": [
+        {
+          "discountPercentage": 18.2,
+          "discountedTotal": 1145.17,
+          "id": 161,
+          "price": 349.99,
+          "quantity": 4,
+          "thumbnail": "https://cdn.dummyjson.com/product-images/tablets/samsung-galaxy-tab-white/thumbnail.webp",
+          "title": "Samsung Galaxy Tab White",
+          "total": 1399.96
+        },
+        {
+          "discountPercentage": 17.48,
+          "discountedTotal": 6.57,
+          "id": 39,
+          "price": 1.99,
+          "quantity": 4,
+          "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/soft-drinks/thumbnail.webp",
+          "title": "Soft Drinks",
+          "total": 7.96
+        },
+        {
+          "discountPercentage": 9.84,
+          "discountedTotal": 54.06,
+          "id": 3,
+          "price": 14.99,
+          "quantity": 4,
+          "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/powder-canister/thumbnail.webp",
+          "title": "Powder Canister",
+          "total": 59.96
+        }
+      ],
+      "total": 1467.88,
+      "totalProducts": 3,
+      "totalQuantity": 12,
+      "userId": 5
+    }
+  ],
+  "limit": 1,
+  "skip": 0,
+  "total": 1
+}

@@ -1,0 +1,40 @@
+{
+  "comments": [
+    {
+      "body": "These are fabulous ideas!",
+      "id": 93,
+      "likes": 7,
+      "postId": 1,
+      "user": {
+        "fullName": "Leah Gutierrez",
+        "id": 190,
+        "username": "leahw"
+      }
+    },
+    {
+      "body": "You are a symbol of beauty.",
+      "id": 107,
+      "likes": 7,
+      "postId": 1,
+      "user": {
+        "fullName": "Jackson Morales",
+        "id": 131,
+        "username": "jacksonm"
+      }
+    },
+    {
+      "body": "Your eyes are like stars.",
+      "id": 209,
+      "likes": 10,
+      "postId": 1,
+      "user": {
+        "fullName": "Miles Stevenson",
+        "id": 95,
+        "username": "miless"
+      }
+    }
+  ],
+  "limit": 3,
+  "skip": 0,
+  "total": 3
+}

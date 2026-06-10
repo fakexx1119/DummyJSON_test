@@ -1,0 +1,11 @@
+{
+  "body": "I think I should shift to the moon",
+  "id": 1,
+  "likes": 3,
+  "postId": 242,
+  "user": {
+    "fullName": "Emma Wilson",
+    "id": 105,
+    "username": "emmac"
+  }
+}

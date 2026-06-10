@@ -1,0 +1,21 @@
+[
+  {
+    "name": "HTTP 5xx（服务端错误）",
+    "matchedStatuses": ["broken", "failed"],
+    "messageRegex": ".*status=5\\d\\d.*|.*HTTP 5\\d\\d.*"
+  },
+  {
+    "name": "HTTP 4xx（请求/权限/参数错误）",
+    "matchedStatuses": ["broken", "failed"],
+    "messageRegex": ".*status=4\\d\\d.*|.*HTTP 4\\d\\d.*"
+  },
+  {
+    "name": "断言失败（业务/字段校验）",
+    "matchedStatuses": ["failed"],
+    "messageRegex": ".*AssertionError.*"
+  },
+  {
+    "name": "用例异常（脚本/依赖问题）",
+    "matchedStatuses": ["broken"]
+  }
+]

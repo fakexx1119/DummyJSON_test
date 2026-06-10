@@ -1,0 +1,1 @@
+curl -X GET "https://dummyjson.com/icon/abc123/64?type=svg" -H "X-Request-Id: bea4c5e71a8a44bda47bff436c1e8900"

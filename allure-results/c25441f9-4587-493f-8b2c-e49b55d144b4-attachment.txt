@@ -1,0 +1,1 @@
+curl -X GET "https://dummyjson.com/recipes/tag/Pakistani" -H "X-Request-Id: 7646d44a62c84bb6b5008ee232125732"

@@ -1,0 +1,325 @@
+{
+  "limit": 7,
+  "recipes": [
+    {
+      "caloriesPerServing": 550,
+      "cookTimeMinutes": 45,
+      "cuisine": "Pakistani",
+      "difficulty": "Medium",
+      "id": 11,
+      "image": "https://cdn.dummyjson.com/recipe-images/11.webp",
+      "ingredients": [
+        "Basmati rice",
+        "Chicken, cut into pieces",
+        "Onions, thinly sliced",
+        "Tomatoes, chopped",
+        "Yogurt",
+        "Ginger-garlic paste",
+        "Biryani masala",
+        "Green chilies, sliced",
+        "Fresh coriander leaves",
+        "Mint leaves",
+        "Ghee",
+        "Salt to taste"
+      ],
+      "instructions": [
+        "Marinate chicken with yogurt, ginger-garlic paste, biryani masala, and salt.",
+        "In a pot, sauté sliced onions until golden brown. Remove half for later use.",
+        "Layer marinated chicken, chopped tomatoes, half of the fried onions, and rice in the pot.",
+        "Top with ghee, green chilies, fresh coriander leaves, mint leaves, and the remaining fried onions.",
+        "Cover and cook on low heat until the rice is fully cooked and aromatic.",
+        "Serve hot, garnished with additional coriander and mint leaves."
+      ],
+      "mealType": [
+        "Lunch",
+        "Dinner"
+      ],
+      "name": "Chicken Biryani",
+      "prepTimeMinutes": 30,
+      "rating": 5,
+      "reviewCount": 32,
+      "servings": 6,
+      "tags": [
+        "Biryani",
+        "Chicken",
+        "Main course",
+        "Indian",
+        "Pakistani",
+        "Asian"
+      ],
+      "userId": 133
+    },
+    {
+      "caloriesPerServing": 420,
+      "cookTimeMinutes": 30,
+      "cuisine": "Pakistani",
+      "difficulty": "Easy",
+      "id": 12,
+      "image": "https://cdn.dummyjson.com/recipe-images/12.webp",
+      "ingredients": [
+        "Chicken, cut into pieces",
+        "Tomatoes, chopped",
+        "Green chilies, sliced",
+        "Ginger, julienned",
+        "Garlic, minced",
+        "Coriander powder",
+        "Cumin powder",
+        "Red chili powder",
+        "Garam masala",
+        "Cooking oil",
+        "Fresh coriander leaves",
+        "Salt to taste"
+      ],
+      "instructions": [
+        "In a wok (karahi), heat cooking oil and sauté minced garlic until golden brown.",
+        "Add chicken pieces and cook until browned on all sides.",
+        "Add chopped tomatoes, green chilies, ginger, and spices. Cook until tomatoes are soft.",
+        "Cover and simmer until the chicken is tender and the oil separates from the masala.",
+        "Garnish with fresh coriander leaves and serve hot with naan or rice."
+      ],
+      "mealType": [
+        "Lunch",
+        "Dinner"
+      ],
+      "name": "Chicken Karahi",
+      "prepTimeMinutes": 20,
+      "rating": 4.8,
+      "reviewCount": 68,
+      "servings": 4,
+      "tags": [
+        "Chicken",
+        "Karahi",
+        "Main course",
+        "Indian",
+        "Pakistani",
+        "Asian"
+      ],
+      "userId": 49
+    },
+    {
+      "caloriesPerServing": 380,
+      "cookTimeMinutes": 35,
+      "cuisine": "Pakistani",
+      "difficulty": "Medium",
+      "id": 13,
+      "image": "https://cdn.dummyjson.com/recipe-images/13.webp",
+      "ingredients": [
+        "Ground beef",
+        "Potatoes, peeled and diced",
+        "Onions, finely chopped",
+        "Tomatoes, chopped",
+        "Ginger-garlic paste",
+        "Cumin powder",
+        "Coriander powder",
+        "Turmeric powder",
+        "Red chili powder",
+        "Cooking oil",
+        "Fresh coriander leaves",
+        "Salt to taste"
+      ],
+      "instructions": [
+        "In a pan, heat cooking oil and sauté chopped onions until golden brown.",
+        "Add ginger-garlic paste and sauté until fragrant.",
+        "Add ground beef and cook until browned. Drain excess oil if needed.",
+        "Add diced potatoes, chopped tomatoes, and spices. Mix well.",
+        "Cover and simmer until the potatoes are tender and the masala is well-cooked.",
+        "Garnish with fresh coriander leaves and serve hot with naan or rice."
+      ],
+      "mealType": [
+        "Lunch",
+        "Dinner"
+      ],
+      "name": "Aloo Keema",
+      "prepTimeMinutes": 25,
+      "rating": 4.6,
+      "reviewCount": 53,
+      "servings": 5,
+      "tags": [
+        "Keema",
+        "Potatoes",
+        "Main course",
+        "Pakistani",
+        "Asian"
+      ],
+      "userId": 152
+    },
+    {
+      "caloriesPerServing": 320,
+      "cookTimeMinutes": 20,
+      "cuisine": "Pakistani",
+      "difficulty": "Medium",
+      "id": 14,
+      "image": "https://cdn.dummyjson.com/recipe-images/14.webp",
+      "ingredients": [
+        "Ground beef",
+        "Onions, finely chopped",
+        "Tomatoes, finely chopped",
+        "Green chilies, chopped",
+        "Coriander leaves, chopped",
+        "Pomegranate seeds",
+        "Ginger-garlic paste",
+        "Cumin powder",
+        "Coriander powder",
+        "Red chili powder",
+        "Egg",
+        "Cooking oil",
+        "Salt to taste"
+      ],
+      "instructions": [
+        "In a large bowl, mix ground beef, chopped onions, tomatoes, green chilies, coriander leaves, and pomegranate seeds.",
+        "Add ginger-garlic paste, cumin powder, coriander powder, red chili powder, and salt. Mix well.",
+        "Add an egg to bind the mixture and form into round flat kebabs.",
+        "Heat cooking oil in a pan and shallow fry the kebabs until browned on both sides.",
+        "Serve hot with naan or mint chutney."
+      ],
+      "mealType": [
+        "Lunch",
+        "Dinner",
+        "Snacks"
+      ],
+      "name": "Chapli Kebabs",
+      "prepTimeMinutes": 30,
+      "rating": 4.7,
+      "reviewCount": 98,
+      "servings": 4,
+      "tags": [
+        "Kebabs",
+        "Beef",
+        "Indian",
+        "Pakistani",
+        "Asian"
+      ],
+      "userId": 152
+    },
+    {
+      "caloriesPerServing": 280,
+      "cookTimeMinutes": 30,
+      "cuisine": "Pakistani",
+      "difficulty": "Medium",
+      "id": 15,
+      "image": "https://cdn.dummyjson.com/recipe-images/15.webp",
+      "ingredients": [
+        "Mustard greens, washed and chopped",
+        "Spinach, washed and chopped",
+        "Cornmeal (makki ka atta)",
+        "Onions, finely chopped",
+        "Green chilies, chopped",
+        "Ginger, grated",
+        "Ghee",
+        "Salt to taste"
+      ],
+      "instructions": [
+        "Boil mustard greens and spinach until tender. Drain and blend into a coarse paste.",
+        "In a pan, sauté chopped onions, green chilies, and grated ginger in ghee until golden brown.",
+        "Add the greens paste and cook until it thickens.",
+        "Meanwhile, knead cornmeal with water to make a dough. Roll into rotis (flatbreads).",
+        "Cook the rotis on a griddle until golden brown.",
+        "Serve hot saag with makki di roti and a dollop of ghee."
+      ],
+      "mealType": [
+        "Breakfast",
+        "Lunch",
+        "Dinner"
+      ],
+      "name": "Saag (Spinach) with Makki di Roti",
+      "prepTimeMinutes": 40,
+      "rating": 4.3,
+      "reviewCount": 86,
+      "servings": 3,
+      "tags": [
+        "Saag",
+        "Roti",
+        "Main course",
+        "Indian",
+        "Pakistani",
+        "Asian"
+      ],
+      "userId": 43
+    },
+    {
+      "caloriesPerServing": 480,
+      "cookTimeMinutes": 25,
+      "cuisine": "Pakistani",
+      "difficulty": "Medium",
+      "id": 20,
+      "image": "https://cdn.dummyjson.com/recipe-images/20.webp",
+      "ingredients": [
+        "Chicken thighs, boneless and skinless",
+        "Yogurt",
+        "Ginger-garlic paste",
+        "Garam masala",
+        "Kashmiri red chili powder",
+        "Tomato puree",
+        "Butter",
+        "Heavy cream",
+        "Kasuri methi (dried fenugreek leaves)",
+        "Sugar",
+        "Salt to taste"
+      ],
+      "instructions": [
+        "Marinate chicken thighs in a mixture of yogurt, ginger-garlic paste, garam masala, and Kashmiri red chili powder.",
+        "In a pan, melt butter and sauté the marinated chicken until browned.",
+        "Add tomato puree and cook until the oil separates. Stir in heavy cream.",
+        "Sprinkle kasuri methi, sugar, and salt. Simmer until the chicken is fully cooked.",
+        "Serve this creamy butter chicken over rice or with naan for an authentic Pakistani/Indian experience."
+      ],
+      "mealType": [
+        "Dinner"
+      ],
+      "name": "Butter Chicken (Murgh Makhani)",
+      "prepTimeMinutes": 30,
+      "rating": 4.5,
+      "reviewCount": 44,
+      "servings": 4,
+      "tags": [
+        "Butter chicken",
+        "Curry",
+        "Indian",
+        "Pakistani",
+        "Asian"
+      ],
+      "userId": 138
+    },
+    {
+      "caloriesPerServing": 180,
+      "cookTimeMinutes": 0,
+      "cuisine": "Indian",
+      "difficulty": "Easy",
+      "id": 22,
+      "image": "https://cdn.dummyjson.com/recipe-images/22.webp",
+      "ingredients": [
+        "Ripe mango, peeled and diced",
+        "Yogurt",
+        "Milk",
+        "Honey",
+        "Cardamom powder",
+        "Ice cubes"
+      ],
+      "instructions": [
+        "In a blender, combine diced mango, yogurt, milk, honey, and cardamom powder.",
+        "Blend until smooth and creamy.",
+        "Add ice cubes and blend again until the lassi is chilled.",
+        "Pour into glasses and garnish with a sprinkle of cardamom.",
+        "Enjoy this refreshing Mango Lassi!"
+      ],
+      "mealType": [
+        "Beverage"
+      ],
+      "name": "Mango Lassi",
+      "prepTimeMinutes": 10,
+      "rating": 4.7,
+      "reviewCount": 15,
+      "servings": 2,
+      "tags": [
+        "Lassi",
+        "Mango",
+        "Indian",
+        "Pakistani",
+        "Asian"
+      ],
+      "userId": 76
+    }
+  ],
+  "skip": 0,
+  "total": 7
+}

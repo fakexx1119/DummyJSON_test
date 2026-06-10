@@ -1,0 +1,62 @@
+[
+  {
+    "completed": true,
+    "id": 24,
+    "todo": "Research a topic interested in",
+    "userId": 130
+  },
+  {
+    "completed": true,
+    "id": 73,
+    "todo": "Give pet ten minutes of focused attention",
+    "userId": 54
+  },
+  {
+    "completed": false,
+    "id": 25,
+    "todo": "Plan a trip to another country",
+    "userId": 140
+  },
+  {
+    "completed": true,
+    "id": 126,
+    "todo": "Pot some plants and put them around house",
+    "userId": 44
+  },
+  {
+    "completed": false,
+    "id": 17,
+    "todo": "Clean out car",
+    "userId": 71
+  },
+  {
+    "completed": false,
+    "id": 146,
+    "todo": "Charge the phone",
+    "userId": 96
+  },
+  {
+    "completed": false,
+    "id": 99,
+    "todo": "Do a jigsaw puzzle",
+    "userId": 70
+  },
+  {
+    "completed": true,
+    "id": 50,
+    "todo": "Start a book you've never gotten around to reading",
+    "userId": 73
+  },
+  {
+    "completed": false,
+    "id": 102,
+    "todo": "Learn a new programming language",
+    "userId": 33
+  },
+  {
+    "completed": true,
+    "id": 196,
+    "todo": "Try a new cuisine at a restaurant",
+    "userId": 172
+  }
+]

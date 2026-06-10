@@ -1,0 +1,1 @@
+curl -X PATCH "https://dummyjson.com/recipes/1" -H "Content-Type: application/json" -H "X-Request-Id: bc809884650a4b4c991510a28419519c" -H "Content-Type: application/json" -d '{"name": "Tasty Pizza"}'

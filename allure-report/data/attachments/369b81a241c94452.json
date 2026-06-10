@@ -1,0 +1,297 @@
+{
+  "carts": [
+    {
+      "discountedTotal": 89686.65,
+      "id": 1,
+      "products": [
+        {
+          "discountPercentage": 13.39,
+          "discountedTotal": 85743.87,
+          "id": 168,
+          "price": 32999.99,
+          "quantity": 3,
+          "thumbnail": "https://cdn.dummyjson.com/products/images/vehicle/Charger%20SXT%20RWD/thumbnail.png",
+          "title": "Charger SXT RWD",
+          "total": 98999.97
+        },
+        {
+          "discountPercentage": 18.52,
+          "discountedTotal": 3259.18,
+          "id": 78,
+          "price": 1999.99,
+          "quantity": 2,
+          "thumbnail": "https://cdn.dummyjson.com/products/images/laptops/Apple%20MacBook%20Pro%2014%20Inch%20Space%20Grey/thumbnail.png",
+          "title": "Apple MacBook Pro 14 Inch Space Grey",
+          "total": 3999.98
+        },
+        {
+          "discountPercentage": 6.28,
+          "discountedTotal": 117.1,
+          "id": 183,
+          "price": 24.99,
+          "quantity": 5,
+          "thumbnail": "https://cdn.dummyjson.com/products/images/womens-jewellery/Green%20Oval%20Earring/thumbnail.png",
+          "title": "Green Oval Earring",
+          "total": 124.94999999999999
+        },
+        {
+          "discountPercentage": 12.84,
+          "discountedTotal": 566.5,
+          "id": 100,
+          "price": 129.99,
+          "quantity": 5,
+          "thumbnail": "https://cdn.dummyjson.com/products/images/mobile-accessories/Apple%20Airpods/thumbnail.png",
+          "title": "Apple Airpods",
+          "total": 649.95
+        }
+      ],
+      "total": 103774.85,
+      "totalProducts": 4,
+      "totalQuantity": 15,
+      "userId": 33
+    },
+    {
+      "discountedTotal": 4288.95,
+      "id": 2,
+      "products": [
+        {
+          "discountPercentage": 11.47,
+          "discountedTotal": 159.32,
+          "id": 144,
+          "price": 44.99,
+          "quantity": 4,
+          "thumbnail": "https://cdn.dummyjson.com/products/images/sports-accessories/Cricket%20Helmet/thumbnail.png",
+          "title": "Cricket Helmet",
+          "total": 179.96
+        },
+        {
+          "discountPercentage": 8.03,
+          "discountedTotal": 3310.88,
+          "id": 124,
+          "price": 899.99,
+          "quantity": 4,
+          "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%20X/thumbnail.png",
+          "title": "iPhone X",
+          "total": 3599.96
+        },
+        {
+          "discountPercentage": 11.24,
+          "discountedTotal": 35.47,
+          "id": 148,
+          "price": 9.99,
+          "quantity": 4,
+          "thumbnail": "https://cdn.dummyjson.com/products/images/sports-accessories/Golf%20Ball/thumbnail.png",
+          "title": "Golf Ball",
+          "total": 39.96
+        },
+        {
+          "discountPercentage": 19.64,
+          "discountedTotal": 723.22,
+          "id": 122,
+          "price": 299.99,
+          "quantity": 3,
+          "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%206/thumbnail.png",
+          "title": "iPhone 6",
+          "total": 899.97
+        },
+        {
+          "discountPercentage": 19.87,
+          "discountedTotal": 60.06,
+          "id": 110,
+          "price": 14.99,
+          "quantity": 5,
+          "thumbnail": "https://cdn.dummyjson.com/products/images/mobile-accessories/Selfie%20Lamp%20with%20iPhone/thumbnail.png",
+          "title": "Selfie Lamp with iPhone",
+          "total": 74.95
+        }
+      ],
+      "total": 4794.8,
+      "totalProducts": 5,
+      "totalQuantity": 20,
+      "userId": 142
+    },
+    {
+      "discountedTotal": 14144.3,
+      "id": 3,
+      "products": [
+        {
+          "discountPercentage": 16.35,
+          "discountedTotal": 11710.99,
+          "id": 98,
+          "price": 13999.99,
+          "quantity": 1,
+          "thumbnail": "https://cdn.dummyjson.com/products/images/mens-watches/Rolex%20Submariner%20Watch/thumbnail.png",
+          "title": "Rolex Submariner Watch",
+          "total": 13999.99
+        },
+        {
+          "discountPercentage": 16.54,
+          "discountedTotal": 1043.21,
+          "id": 125,
+          "price": 249.99,
+          "quantity": 5,
+          "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Oppo%20A57/thumbnail.png",
+          "title": "Oppo A57",
+          "total": 1249.95
+        },
+        {
+          "discountPercentage": 16.04,
+          "discountedTotal": 11.74,
+          "id": 55,
+          "price": 6.99,
+          "quantity": 2,
+          "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Egg%20Slicer/thumbnail.png",
+          "title": "Egg Slicer",
+          "total": 13.98
+        },
+        {
+          "discountPercentage": 8.25,
+          "discountedTotal": 10.99,
+          "id": 62,
+          "price": 5.99,
+          "quantity": 2,
+          "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Ice%20Cube%20Tray/thumbnail.png",
+          "title": "Ice Cube Tray",
+          "total": 11.98
+        },
+        {
+          "discountPercentage": 8.84,
+          "discountedTotal": 1367.37,
+          "id": 132,
+          "price": 499.99,
+          "quantity": 3,
+          "thumbnail": "https://cdn.dummyjson.com/products/images/smartphones/Samsung%20Galaxy%20S8/thumbnail.png",
+          "title": "Samsung Galaxy S8",
+          "total": 1499.97
+        }
+      ],
+      "total": 16775.87,
+      "totalProducts": 5,
+      "totalQuantity": 13,
+      "userId": 108
+    },
+    {
+      "discountedTotal": 443.23,
+      "id": 4,
+      "products": [
+        {
+          "discountPercentage": 1.64,
+          "discountedTotal": 245.85,
+          "id": 187,
+          "price": 49.99,
+          "quantity": 5,
+          "thumbnail": "https://cdn.dummyjson.com/products/images/womens-shoes/Golden%20Shoes%20Woman/thumbnail.png",
+          "title": "Golden Shoes Woman",
+          "total": 249.95000000000002
+        },
+        {
+          "discountPercentage": 4.6,
+          "discountedTotal": 19.03,
+          "id": 40,
+          "price": 3.99,
+          "quantity": 5,
+          "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Strawberry/thumbnail.png",
+          "title": "Strawberry",
+          "total": 19.950000000000003
+        },
+        {
+          "discountPercentage": 4.34,
+          "discountedTotal": 167.36,
+          "id": 156,
+          "price": 34.99,
+          "quantity": 5,
+          "thumbnail": "https://cdn.dummyjson.com/products/images/sunglasses/Green%20and%20Black%20Glasses/thumbnail.png",
+          "title": "Green and Black Glasses",
+          "total": 174.95000000000002
+        },
+        {
+          "discountPercentage": 8.25,
+          "discountedTotal": 10.99,
+          "id": 62,
+          "price": 5.99,
+          "quantity": 2,
+          "thumbnail": "https://cdn.dummyjson.com/products/images/kitchen-accessories/Ice%20Cube%20Tray/thumbnail.png",
+          "title": "Ice Cube Tray",
+          "total": 11.98
+        }
+      ],
+      "total": 456.83,
+      "totalProducts": 4,
+      "totalQuantity": 17,
+      "userId": 87
+    },
+    {
+      "discountedTotal": 6676.44,
+      "id": 5,
+      "products": [
+        {
+          "discountPercentage": 14.68,
+          "discountedTotal": 51.17,
+          "id": 108,
+          "price": 29.99,
+          "quantity": 2,
+          "thumbnail": "https://cdn.dummyjson.com/products/images/mobile-accessories/iPhone%2012%20Silicone%20Case%20with%20MagSafe%20Plum/thumbnail.png",
+          "title": "iPhone 12 Silicone Case with MagSafe Plum",
+          "total": 59.98
+        },
+        {
+          "discountPercentage": 18.49,
+          "discountedTotal": 36.64,
+          "id": 138,
+          "price": 8.99,
+          "quantity": 5,
+          "thumbnail": "https://cdn.dummyjson.com/products/images/sports-accessories/Baseball%20Ball/thumbnail.png",
+          "title": "Baseball Ball",
+          "total": 44.95
+        },
+        {
+          "discountPercentage": 19.17,
+          "discountedTotal": 32.32,
+          "id": 157,
+          "price": 19.99,
+          "quantity": 2,
+          "thumbnail": "https://cdn.dummyjson.com/products/images/sunglasses/Party%20Glasses/thumbnail.png",
+          "title": "Party Glasses",
+          "total": 39.98
+        },
+        {
+          "discountPercentage": 10.79,
+          "discountedTotal": 240.84,
+          "id": 8,
+          "price": 89.99,
+          "quantity": 3,
+          "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/thumbnail.png",
+          "title": "Dior J'adore",
+          "total": 269.96999999999997
+        },
+        {
+          "discountPercentage": 9.99,
+          "discountedTotal": 6300.65,
+          "id": 80,
+          "price": 1399.99,
+          "quantity": 5,
+          "thumbnail": "https://cdn.dummyjson.com/products/images/laptops/Huawei%20Matebook%20X%20Pro/thumbnail.png",
+          "title": "Huawei Matebook X Pro",
+          "total": 6999.95
+        },
+        {
+          "discountPercentage": 10,
+          "discountedTotal": 14.82,
+          "id": 28,
+          "price": 5.49,
+          "quantity": 3,
+          "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Ice%20Cream/thumbnail.png",
+          "title": "Ice Cream",
+          "total": 16.47
+        }
+      ],
+      "total": 7431.3,
+      "totalProducts": 6,
+      "totalQuantity": 20,
+      "userId": 134
+    }
+  ],
+  "limit": 5,
+  "skip": 0,
+  "total": 50
+}

@@ -1,0 +1,55 @@
+{
+  "limit": 3,
+  "posts": [
+    {
+      "body": "Birds sang, leaves rustled, and a gentle stream trickled nearby. It was a symphony of life, a reminder of the world's beauty. The dense canopy overhead filtered the sunlight, creating a mosaic of light and shadow on the forest floor, a tranquil haven far from the chaos of modern life.",
+      "id": 153,
+      "reactions": {
+        "dislikes": 28,
+        "likes": 366
+      },
+      "tags": [
+        "nature",
+        "tranquility",
+        "life"
+      ],
+      "title": "The forest was alive with the sounds of nature",
+      "userId": 24,
+      "views": 1868
+    },
+    {
+      "body": "Stalls filled with colorful produce, the air rich with the scent of spices and fresh flowers. Vendors called out their wares, and the crowd moved in a vibrant dance. It was a place of energy and life, where every visit promised something new.",
+      "id": 167,
+      "reactions": {
+        "dislikes": 5,
+        "likes": 1165
+      },
+      "tags": [
+        "market",
+        "vibrant",
+        "life"
+      ],
+      "title": "The market was a bustling maze of sights and sounds",
+      "userId": 118,
+      "views": 3654
+    },
+    {
+      "body": "Animals roamed the fields, and the air was filled with the sounds of clucking chickens and lowing cows. Crops swayed in the breeze, promising a good harvest. It was a place of hard work and satisfaction, where the rhythm of life followed the seasons.",
+      "id": 190,
+      "reactions": {
+        "dislikes": 13,
+        "likes": 463
+      },
+      "tags": [
+        "farm",
+        "activity",
+        "life"
+      ],
+      "title": "The farm was a bustling hub of activity",
+      "userId": 188,
+      "views": 488
+    }
+  ],
+  "skip": 0,
+  "total": 3
+}

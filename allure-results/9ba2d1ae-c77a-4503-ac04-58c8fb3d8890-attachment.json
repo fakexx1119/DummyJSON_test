@@ -1,0 +1,32 @@
+{
+  "limit": 5,
+  "products": [
+    {
+      "id": 167,
+      "price": 28999.99,
+      "title": "300 Touring"
+    },
+    {
+      "id": 99,
+      "price": 99.99,
+      "title": "Amazon Echo Plus"
+    },
+    {
+      "id": 137,
+      "price": 19.99,
+      "title": "American Football"
+    },
+    {
+      "id": 11,
+      "price": 1899.99,
+      "title": "Annibale Colombo Bed"
+    },
+    {
+      "id": 12,
+      "price": 2499.99,
+      "title": "Annibale Colombo Sofa"
+    }
+  ],
+  "skip": 0,
+  "total": 194
+}

@@ -1,0 +1,1 @@
+curl -X GET "https://dummyjson.com/users?limit=5&skip=10&select=id%2CfirstName%2Cage&sortBy=firstName&order=asc" -H "X-Request-Id: 4b807dc3f0e74f7f8342acc5d41bf95c"

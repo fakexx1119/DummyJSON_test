@@ -1,0 +1,1 @@
+curl -X POST "https://dummyjson.com/user/login" -H "Content-Type: application/json" -H "X-Request-Id: cdc74eaec94c4a6eaa821121c0e66bf0" -H "Content-Type: application/json" -d '{"username": "emilys", "password": "emilyspass", "expiresInMins": 30}'

@@ -1,0 +1,32 @@
+{
+  "limit": 5,
+  "skip": 10,
+  "total": 208,
+  "users": [
+    {
+      "age": 44,
+      "firstName": "Amelia",
+      "id": 117
+    },
+    {
+      "age": 27,
+      "firstName": "Aria",
+      "id": 38
+    },
+    {
+      "age": 28,
+      "firstName": "Aria",
+      "id": 66
+    },
+    {
+      "age": 28,
+      "firstName": "Aria",
+      "id": 142
+    },
+    {
+      "age": 26,
+      "firstName": "Aria",
+      "id": 188
+    }
+  ]
+}

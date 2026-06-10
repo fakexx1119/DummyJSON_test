@@ -1,0 +1,62 @@
+[
+  {
+    "completed": false,
+    "id": 204,
+    "todo": "Explore a new museum exhibit",
+    "userId": 42
+  },
+  {
+    "completed": false,
+    "id": 185,
+    "todo": "Attend a wine tasting",
+    "userId": 38
+  },
+  {
+    "completed": true,
+    "id": 126,
+    "todo": "Pot some plants and put them around house",
+    "userId": 44
+  },
+  {
+    "completed": true,
+    "id": 124,
+    "todo": "Go swimming with a friend",
+    "userId": 52
+  },
+  {
+    "completed": false,
+    "id": 21,
+    "todo": "Create a compost pile",
+    "userId": 13
+  },
+  {
+    "completed": false,
+    "id": 101,
+    "todo": "Organize basement",
+    "userId": 61
+  },
+  {
+    "completed": true,
+    "id": 196,
+    "todo": "Try a new cuisine at a restaurant",
+    "userId": 172
+  },
+  {
+    "completed": true,
+    "id": 143,
+    "todo": "Visit a nearby museum",
+    "userId": 76
+  },
+  {
+    "completed": false,
+    "id": 216,
+    "todo": "Take a scenic helicopter tour",
+    "userId": 205
+  },
+  {
+    "completed": false,
+    "id": 54,
+    "todo": "Organize a cluttered drawer",
+    "userId": 189
+  }
+]

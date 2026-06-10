@@ -1,0 +1,312 @@
+{
+  "limit": 5,
+  "products": [
+    {
+      "availabilityStatus": "In Stock",
+      "brand": "Apple",
+      "category": "mobile-accessories",
+      "description": "The Apple AirPods Max in Silver are premium over-ear headphones with high-fidelity audio, adaptive EQ, and active noise cancellation. Experience immersive sound in style.",
+      "dimensions": {
+        "depth": 27.54,
+        "height": 14.9,
+        "width": 24.88
+      },
+      "discountPercentage": 13.67,
+      "id": 101,
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods-max-silver/1.webp"
+      ],
+      "meta": {
+        "barcode": "4062176053732",
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+        "updatedAt": "2025-04-30T09:41:02.053Z"
+      },
+      "minimumOrderQuantity": 1,
+      "price": 549.99,
+      "rating": 3.47,
+      "returnPolicy": "No return policy",
+      "reviews": [
+        {
+          "comment": "Excellent quality!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "rating": 5,
+          "reviewerEmail": "henry.adams@x.dummyjson.com",
+          "reviewerName": "Henry Adams"
+        },
+        {
+          "comment": "Very happy with my purchase!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "rating": 4,
+          "reviewerEmail": "elijah.cruz@x.dummyjson.com",
+          "reviewerName": "Elijah Cruz"
+        },
+        {
+          "comment": "Would buy again!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "rating": 4,
+          "reviewerEmail": "william.lopez@x.dummyjson.com",
+          "reviewerName": "William Lopez"
+        }
+      ],
+      "shippingInformation": "Ships in 2 weeks",
+      "sku": "MOB-APP-APP-101",
+      "stock": 59,
+      "tags": [
+        "electronics",
+        "over-ear headphones"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-airpods-max-silver/thumbnail.webp",
+      "title": "Apple AirPods Max Silver",
+      "warrantyInformation": "No warranty",
+      "weight": 2
+    },
+    {
+      "availabilityStatus": "In Stock",
+      "brand": "Apple",
+      "category": "mobile-accessories",
+      "description": "The Apple iPhone Charger is a high-quality charger designed for fast and efficient charging of your iPhone. Ensure your device stays powered up and ready to go.",
+      "dimensions": {
+        "depth": 5.95,
+        "height": 26.25,
+        "width": 13.63
+      },
+      "discountPercentage": 18.52,
+      "id": 104,
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-iphone-charger/1.webp",
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-iphone-charger/2.webp"
+      ],
+      "meta": {
+        "barcode": "0879776541417",
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+        "updatedAt": "2025-04-30T09:41:02.053Z"
+      },
+      "minimumOrderQuantity": 14,
+      "price": 19.99,
+      "rating": 4.15,
+      "returnPolicy": "90 days return policy",
+      "reviews": [
+        {
+          "comment": "Very disappointed!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "rating": 1,
+          "reviewerEmail": "sadie.morales@x.dummyjson.com",
+          "reviewerName": "Sadie Morales"
+        },
+        {
+          "comment": "Great product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "rating": 5,
+          "reviewerEmail": "lily.torres@x.dummyjson.com",
+          "reviewerName": "Lily Torres"
+        },
+        {
+          "comment": "Waste of money!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "rating": 2,
+          "reviewerEmail": "luke.cooper@x.dummyjson.com",
+          "reviewerName": "Luke Cooper"
+        }
+      ],
+      "shippingInformation": "Ships in 2 weeks",
+      "sku": "MOB-APP-APP-104",
+      "stock": 31,
+      "tags": [
+        "electronics",
+        "chargers"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-iphone-charger/thumbnail.webp",
+      "title": "Apple iPhone Charger",
+      "warrantyInformation": "1 year warranty",
+      "weight": 1
+    },
+    {
+      "availabilityStatus": "Low Stock",
+      "brand": "Apple",
+      "category": "mobile-accessories",
+      "description": "The Apple MagSafe Battery Pack is a portable and convenient way to add extra battery life to your MagSafe-compatible iPhone. Attach it magnetically for a secure connection.",
+      "dimensions": {
+        "depth": 19.67,
+        "height": 11.89,
+        "width": 15.4
+      },
+      "discountPercentage": 17.17,
+      "id": 105,
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-magsafe-battery-pack/1.webp",
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-magsafe-battery-pack/2.webp"
+      ],
+      "meta": {
+        "barcode": "5157424897794",
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+        "updatedAt": "2025-04-30T09:41:02.053Z"
+      },
+      "minimumOrderQuantity": 4,
+      "price": 99.99,
+      "rating": 3.62,
+      "returnPolicy": "No return policy",
+      "reviews": [
+        {
+          "comment": "Would not recommend!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "rating": 2,
+          "reviewerEmail": "stella.morris@x.dummyjson.com",
+          "reviewerName": "Stella Morris"
+        },
+        {
+          "comment": "Not as described!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "rating": 2,
+          "reviewerEmail": "henry.adams@x.dummyjson.com",
+          "reviewerName": "Henry Adams"
+        },
+        {
+          "comment": "Fast shipping!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "rating": 5,
+          "reviewerEmail": "cameron.burke@x.dummyjson.com",
+          "reviewerName": "Cameron Burke"
+        }
+      ],
+      "shippingInformation": "Ships overnight",
+      "sku": "MOB-APP-APP-105",
+      "stock": 1,
+      "tags": [
+        "electronics",
+        "power banks"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/apple-magsafe-battery-pack/thumbnail.webp",
+      "title": "Apple MagSafe Battery Pack",
+      "warrantyInformation": "2 year warranty",
+      "weight": 6
+    },
+    {
+      "availabilityStatus": "In Stock",
+      "brand": "Beats",
+      "category": "mobile-accessories",
+      "description": "The Beats Flex Wireless Earphones offer a comfortable and versatile audio experience. With magnetic earbuds and up to 12 hours of battery life, they are ideal for everyday use.",
+      "dimensions": {
+        "depth": 23.09,
+        "height": 25.74,
+        "width": 17.86
+      },
+      "discountPercentage": 5.73,
+      "id": 107,
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/beats-flex-wireless-earphones/1.webp"
+      ],
+      "meta": {
+        "barcode": "1741271692174",
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+        "updatedAt": "2025-04-30T09:41:02.053Z"
+      },
+      "minimumOrderQuantity": 17,
+      "price": 49.99,
+      "rating": 4.24,
+      "returnPolicy": "7 days return policy",
+      "reviews": [
+        {
+          "comment": "Disappointing product!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "rating": 2,
+          "reviewerEmail": "william.gonzalez@x.dummyjson.com",
+          "reviewerName": "William Gonzalez"
+        },
+        {
+          "comment": "Very pleased!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "rating": 5,
+          "reviewerEmail": "gabriel.mitchell@x.dummyjson.com",
+          "reviewerName": "Gabriel Mitchell"
+        },
+        {
+          "comment": "Not worth the price!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "rating": 2,
+          "reviewerEmail": "gabriel.adams@x.dummyjson.com",
+          "reviewerName": "Gabriel Adams"
+        }
+      ],
+      "shippingInformation": "Ships in 1-2 business days",
+      "sku": "MOB-BEA-BEA-107",
+      "stock": 50,
+      "tags": [
+        "electronics",
+        "wireless earphones"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/beats-flex-wireless-earphones/thumbnail.webp",
+      "title": "Beats Flex Wireless Earphones",
+      "warrantyInformation": "1 year warranty",
+      "weight": 8
+    },
+    {
+      "availabilityStatus": "In Stock",
+      "brand": "Apple",
+      "category": "mobile-accessories",
+      "description": "The iPhone 12 Silicone Case with MagSafe in Plum is a stylish and protective case designed for the iPhone 12. It features MagSafe technology for easy attachment of accessories.",
+      "dimensions": {
+        "depth": 23.52,
+        "height": 11.29,
+        "width": 12.49
+      },
+      "discountPercentage": 13.85,
+      "id": 108,
+      "images": [
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/iphone-12-silicone-case-with-magsafe-plum/1.webp",
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/iphone-12-silicone-case-with-magsafe-plum/2.webp",
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/iphone-12-silicone-case-with-magsafe-plum/3.webp",
+        "https://cdn.dummyjson.com/product-images/mobile-accessories/iphone-12-silicone-case-with-magsafe-plum/4.webp"
+      ],
+      "meta": {
+        "barcode": "8156838251449",
+        "createdAt": "2025-04-30T09:41:02.053Z",
+        "qrCode": "https://cdn.dummyjson.com/public/qr-code.png",
+        "updatedAt": "2025-04-30T09:41:02.053Z"
+      },
+      "minimumOrderQuantity": 4,
+      "price": 29.99,
+      "rating": 3.62,
+      "returnPolicy": "90 days return policy",
+      "reviews": [
+        {
+          "comment": "Would not buy again!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "rating": 2,
+          "reviewerEmail": "penelope.king@x.dummyjson.com",
+          "reviewerName": "Penelope King"
+        },
+        {
+          "comment": "Great value for money!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "rating": 5,
+          "reviewerEmail": "isabella.anderson@x.dummyjson.com",
+          "reviewerName": "Isabella Anderson"
+        },
+        {
+          "comment": "Highly recommended!",
+          "date": "2025-04-30T09:41:02.053Z",
+          "rating": 5,
+          "reviewerEmail": "claire.foster@x.dummyjson.com",
+          "reviewerName": "Claire Foster"
+        }
+      ],
+      "shippingInformation": "Ships in 3-5 business days",
+      "sku": "MOB-APP-IPH-108",
+      "stock": 69,
+      "tags": [
+        "electronics",
+        "phone accessories"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/mobile-accessories/iphone-12-silicone-case-with-magsafe-plum/thumbnail.webp",
+      "title": "iPhone 12 Silicone Case with MagSafe Plum",
+      "warrantyInformation": "3 months warranty",
+      "weight": 7
+    }
+  ],
+  "skip": 0,
+  "total": 23
+}

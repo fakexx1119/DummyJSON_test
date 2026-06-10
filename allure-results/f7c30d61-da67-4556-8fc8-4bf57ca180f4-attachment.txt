@@ -1,0 +1,1 @@
+curl -X GET "https://dummyjson.com/image/50?text=Hello&type=png&fontFamily=poppins&fontSize=14" -H "X-Request-Id: 78e9605347334f6ebffccf55a3386fea"

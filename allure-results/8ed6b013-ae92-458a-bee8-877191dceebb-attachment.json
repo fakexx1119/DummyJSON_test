@@ -1,0 +1,23 @@
+{
+  "CF-RAY": "9d98e27acb0695d9-AMS",
+  "Connection": "keep-alive",
+  "Content-Length": "30",
+  "Content-Type": "application/json; charset=utf-8",
+  "Date": "Mon, 09 Mar 2026 08:59:38 GMT",
+  "Nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+  "Report-To": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=y%2BD7X%2Ft0OSs%2FVkWUGWRSxfcptf5VZ3%2Fzb4dTXI7wfMqHUQD1XJ4arhBnoEAIlNkvW15UC91sR2DNTKGa5f6n7e6ISnNVD7JKWVlTZaU%3D\"}]}",
+  "Server": "cloudflare",
+  "access-control-allow-origin": "*",
+  "cf-cache-status": "DYNAMIC",
+  "etag": "W/\"1e-X/ZTgL0+qpgHuGmBISFBqxNg62E\"",
+  "strict-transport-security": "max-age=15552000; includeSubDomains",
+  "vary": "Accept-Encoding",
+  "x-content-type-options": "nosniff",
+  "x-dns-prefetch-control": "off",
+  "x-download-options": "noopen",
+  "x-frame-options": "SAMEORIGIN",
+  "x-ratelimit-limit": "100",
+  "x-ratelimit-remaining": "82",
+  "x-ratelimit-reset": "1773046782",
+  "x-xss-protection": "1; mode=block"
+}

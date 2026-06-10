@@ -1,0 +1,7 @@
+{
+  "name": "本地-pytest",
+  "type": "pytest",
+  "buildName": "DummyJSON API 自动化",
+  "buildUrl": "",
+  "reportUrl": ""
+}

@@ -1,0 +1,1 @@
+curl -X GET "https://dummyjson.com/quotes?limit=5&skip=0" -H "X-Request-Id: 4d52a008cae246bb8a96e079ffee0ff5"

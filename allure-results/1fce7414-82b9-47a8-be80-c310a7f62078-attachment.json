@@ -1,0 +1,8 @@
+{
+  "delay": 10,
+  "limit": 5,
+  "order": "asc",
+  "select": "id,title,price",
+  "skip": 0,
+  "sortBy": "title"
+}

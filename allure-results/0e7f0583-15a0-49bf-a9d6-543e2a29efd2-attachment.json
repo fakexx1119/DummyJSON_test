@@ -1,0 +1,62 @@
+[
+  {
+    "completed": true,
+    "id": 128,
+    "todo": "Take a bubble bath",
+    "userId": 207
+  },
+  {
+    "completed": true,
+    "id": 43,
+    "todo": "Go see a movie in theaters with a few friends",
+    "userId": 206
+  },
+  {
+    "completed": true,
+    "id": 49,
+    "todo": "Volunteer at local food pantry",
+    "userId": 18
+  },
+  {
+    "completed": false,
+    "id": 26,
+    "todo": "Improve touch typing",
+    "userId": 178
+  },
+  {
+    "completed": true,
+    "id": 15,
+    "todo": "Buy a new house decoration",
+    "userId": 105
+  },
+  {
+    "completed": true,
+    "id": 142,
+    "todo": "Write a short story",
+    "userId": 157
+  },
+  {
+    "completed": false,
+    "id": 28,
+    "todo": "Learn calligraphy",
+    "userId": 80
+  },
+  {
+    "completed": true,
+    "id": 92,
+    "todo": "Create or update resume",
+    "userId": 43
+  },
+  {
+    "completed": false,
+    "id": 46,
+    "todo": "Watch a Khan Academy lecture on a subject of choosing",
+    "userId": 135
+  },
+  {
+    "completed": true,
+    "id": 2,
+    "todo": "Memorize a poem",
+    "userId": 13
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "limit": 5,
+  "order": "asc",
+  "select": "id,name,image",
+  "skip": 0,
+  "sortBy": "name"
+}

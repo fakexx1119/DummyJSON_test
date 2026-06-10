@@ -1,0 +1,62 @@
+[
+  {
+    "completed": true,
+    "id": 42,
+    "todo": "Host a movie marathon with some friends",
+    "userId": 202
+  },
+  {
+    "completed": true,
+    "id": 31,
+    "todo": "Make own LEGO creation",
+    "userId": 11
+  },
+  {
+    "completed": false,
+    "id": 96,
+    "todo": "Have a jam session with friends",
+    "userId": 99
+  },
+  {
+    "completed": true,
+    "id": 126,
+    "todo": "Pot some plants and put them around house",
+    "userId": 44
+  },
+  {
+    "completed": true,
+    "id": 153,
+    "todo": "Try new local restaurant",
+    "userId": 92
+  },
+  {
+    "completed": false,
+    "id": 187,
+    "todo": "Visit an aquarium",
+    "userId": 19
+  },
+  {
+    "completed": false,
+    "id": 228,
+    "todo": "Attend a local street fair",
+    "userId": 103
+  },
+  {
+    "completed": true,
+    "id": 63,
+    "todo": "Start a blog for something I'm passionate about",
+    "userId": 38
+  },
+  {
+    "completed": true,
+    "id": 30,
+    "todo": "Go to the gym",
+    "userId": 142
+  },
+  {
+    "completed": true,
+    "id": 152,
+    "todo": "Sleeeeep for the whole day!!!",
+    "userId": 198
+  }
+]

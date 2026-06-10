@@ -1,0 +1,1 @@
+curl -X GET "https://dummyjson.com/products/search?q=phone&limit=5&skip=0" -H "X-Request-Id: d5b1fc6c81c64576abead788dc75feae"

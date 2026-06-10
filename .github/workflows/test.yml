@@ -1,4 +1,4 @@
-name: API Test Pipeline (Stable)
+name: API Test Pipeline with Allure Report
 
 on:
   push:
@@ -23,17 +23,38 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
+        sudo apt-get update
+        sudo apt-get install -y default-jre wget
+    
+    - name: Install Allure
+      run: |
+        wget https://github.com/allure-framework/allure2/releases/download/2.24.1/allure-2.24.1.tgz
+        tar -zxvf allure-2.24.1.tgz -C /opt/
+        ln -s /opt/allure-2.24.1/bin/allure /usr/bin/allure
+        allure --version
     
     - name: Run tests
       run: |
-        pytest tests/ -v
-      continue-on-error: true
+        pytest tests/ --alluredir=./allure-results -v
+      # ❌ 已删除 continue-on-error: true，测试失败时会阻断流水线
     
-    - name: Upload test results
+    - name: Generate Allure HTML report
+      if: always()  # 无论测试成功还是失败，都生成报告
+      run: |
+        allure generate ./allure-results -o ./allure-report --clean
+    
+    - name: Upload Allure results
+      if: always()
       uses: actions/upload-artifact@v4
       with:
-        name: test-results
-        path: |
-          ./allure-results
-          ./.pytest_cache
-        retention-days: 7
+        name: allure-results
+        path: ./allure-results
+        retention-days: 30
+    
+    - name: Upload Allure HTML report
+      if: always()
+      uses: actions/upload-artifact@v4
+      with:
+        name: allure-report
+        path: ./allure-report
+        retention-days: 30

@@ -51,3 +51,4 @@ class TestAuth:
         me_data = me_resp.json()
         assert_has_keys(me_data, ["id", "email"])
 
+
